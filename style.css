@@ -19,6 +19,12 @@ header {
 .centered {
 	text-align: center;
 }
+.top-bottom-margin {
+	margin: 25px auto;
+}
+.padded {
+	padding: 10px;
+}
 .even-eight {
 	width:12.5%;
 	text-align: center;
