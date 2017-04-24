@@ -29,3 +29,13 @@ header {
 	width:12.5%;
 	text-align: center;
 }
+
+.home_button {
+  color: black;
+  border: no border;
+}
+
+.selected {
+  font-weight: bold;
+  color: navy;
+}
