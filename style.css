@@ -39,3 +39,8 @@ header {
   font-weight: bold;
   color: navy;
 }
+
+.member_picture {
+  width: 150px;
+  border-radius: 5px;
+}
