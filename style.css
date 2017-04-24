@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+li {
+	display: block;
+	float: left;
+}
+header {
+	border-bottom: 2px solid #4d4d4d;
+}
+.bordered {
+	border: 2px solid #4d4d4d;
+	box-sizing: border-box;
+}
+.centered {
+	text-align: center;
+}
+.even-eight {
+	width:12.5%;
+	text-align: center;
+}
