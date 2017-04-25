@@ -44,3 +44,26 @@ header {
   width: 150px;
   border-radius: 5px;
 }
+.PAL-text {
+  font-size: 200px;
+  padding-top: 150px;
+}
+
+.home-section {
+    height: 400px;
+    padding-top: -1000px;
+    padding-bottom: 200px;
+    background-image: url('./images/PAL.jpeg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    color: #ffffff;
+    position: relative;
+}
+
+.parallax {
+    /*height: 300px;*/
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
