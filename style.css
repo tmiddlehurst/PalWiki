@@ -1,3 +1,6 @@
+* {
+  color: white;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -8,9 +11,25 @@ ul {
 li {
 	display: block;
 	float: left;
+  color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
+}
+a:active {
+  color: grey;
+  text-decoration: underline;
 }
 header {
 	border-bottom: 2px solid #4d4d4d;
+  background-color: black;
+}
+.top_nav {
+  color: white;
 }
 .bordered {
 	border: 2px solid #4d4d4d;
@@ -28,16 +47,19 @@ header {
 .even-eight {
 	width:12.5%;
 	text-align: center;
+  color: white;
 }
 
 .home_button {
-  color: black;
+  color: white;
+  font-weight: bold;
   border: no border;
 }
 
 .selected {
   font-weight: bold;
-  color: navy;
+  color: grey;
+  text-decoration: underline;
 }
 
 .member_picture {
@@ -67,3 +89,4 @@ header {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
