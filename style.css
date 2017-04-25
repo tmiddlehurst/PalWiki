@@ -24,6 +24,16 @@ a:active {
   color: grey;
   text-decoration: underline;
 }
+.jay {
+  color: black;
+}
+.jay:hover {
+  color: red;
+}
+.jay:active {
+  color: maroon;
+  text-decoration: underline;
+}
 h4 {
   text-decoration: underline;
   font-weight: bold;
@@ -99,4 +109,7 @@ header {
   padding-bottom: 30px;
   background-color: white;
   color: black;
+}
+.jay.selected {
+  color: maroon
 }
