@@ -110,6 +110,12 @@ header {
   background-color: white;
   color: black;
 }
+.SGP {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: black;
+  color: white;
+}
 .jay.selected {
   color: maroon
 }
